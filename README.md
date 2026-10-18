@@ -1,4 +1,3 @@
-```
 # Card & Krueger (1994) Minimum Wage DID Replication
 Course empirical assignment: replicate the classic difference-in-differences research.
 
@@ -6,7 +5,7 @@ Course empirical assignment: replicate the classic difference-in-differences res
 This project replicates Card & Krueger (1994), which estimates the impact of minimum wage rise on employment of fast-food restaurants in New Jersey and Pennsylvania.
 
 ## File Structure
-```
+
 
 ├── data/
 │   └── card_krueger_raw.dta
@@ -20,7 +19,7 @@ This project replicates Card & Krueger (1994), which estimates the impact of min
 │   └── assignment_report.pdf
 └── README.md
 
-```
+
 
 ## How to Run
 1. Open `did_code_comments.do` or `did_code_clean.do` in Stata.
